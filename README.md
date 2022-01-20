@@ -1,5 +1,12 @@
 # PS Vita gamecard to microSD adapter
+Fork of https://github.com/xyzz/gamecard-microsd
 
+SD2Vita -> ux0
+
+Memory Card -> uma0
+
+Internal Memory card > imc0
+Added 3.73
 ## Software
 
 `driver` contains a kernel module. Add it to taihen's `config.txt` KERNEL section. You can download a precompiled `.skprx` from the [Releases](https://github.com/xyzz/gamecard-microsd/releases) section.

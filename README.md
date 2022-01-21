@@ -6,7 +6,9 @@ SD2Vita -> ux0
 Memory Card -> uma0
 
 Internal Memory card > imc0
+
 Added 3.73
+
 SD2Vita -> uma0
 
 Memory Card -> ux0

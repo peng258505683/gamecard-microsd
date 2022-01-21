@@ -7,6 +7,12 @@ Memory Card -> uma0
 
 Internal Memory card > imc0
 Added 3.73
+SD2Vita -> uma0
+
+Memory Card -> ux0
+
+Internal Memory card > imc0
+
 ## Software
 
 `driver` contains a kernel module. Add it to taihen's `config.txt` KERNEL section. You can download a precompiled `.skprx` from the [Releases](https://github.com/xyzz/gamecard-microsd/releases) section.
